@@ -1,6 +1,6 @@
 {
   "name": "bastly_constants",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "temp bastly constants",
   "main": "constants.js",
   "scripts": {
